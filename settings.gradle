@@ -1,0 +1,2 @@
+rootProject.name = "MeteoAPI"
+include ':app'
